@@ -1,0 +1,64 @@
+h1{
+	
+	font-size: 36px;
+	text-align: center;
+	margin: 0;
+	padding: 15px 0 0 0;
+	color: white;
+	text-transform: uppercase;
+
+}
+
+h2{
+    text-align: center;
+	margin: 0;
+	color: white;
+}
+
+body{
+	font-family: Corbel, Ariel;
+	margin: 0;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+
+/*i commenti*/
+
+#header{
+background-color: #33cc33;
+	
+
+}
+
+#content{
+
+width: 600px;
+margin: 30px auto;
+}
+
+#content h4{
+	border-bottom: #33cc33 solid;
+}
+
+#nav{
+	background-color:#1f7a1f;
+	text-align: center;
+
+}
+
+#nav li{
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+}
+
+#nav li a {
+	color: white;
+}
+
+#nav li:hover{
+	background-color: #33cc33;
+}
